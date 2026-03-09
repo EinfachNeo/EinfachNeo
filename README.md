@@ -1,15 +1,13 @@
 # 👋 Hey, I'm **EinfachNeo**
 
-> 💡 *Code. Create. Break. Learn. Repeat.*
-
 Welcome to my GitHub profile!  
-Here you'll find projects I've worked on — ranging from small resources and experiments to modern web apps and explorations of new technologies.
+Here you'll find projects I've worked on — ranging from small resources and experiments to slightly more complex ressources.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Hobby developer focused on **Gaming & Software Development**
+- 💻 Hobby developer focused on **Gaming/Modding & Software Development**
 - 🧠 Always curious about new tools, ideas, and best practices
 - 🛠️ I enjoy building clean, performant, and maintainable solutions
 - 🌱 Currently exploring my path and leveling up my skills
@@ -51,8 +49,7 @@ Something cool is coming. Stay tuned 👀
 ## 🤝 Let's Connect
 
 - 🌐 Website: [portfolio.einfachneo.workers.dev](https://portfolio.einfachneo.workers.dev/)
-- 💼 LinkedIn: **SOON**
-- 📫 Mail: **SOON**
+- 📫 Discord: einfach_neo
 
 ---
 
