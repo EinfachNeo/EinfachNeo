@@ -1,57 +1,120 @@
+<div align="center">
+
 # 👋 Hey, I'm **EinfachNeo**
 
-Welcome to my GitHub profile!  
-Here you'll find projects I've worked on — ranging from small resources and experiments to slightly more complex ressources.
+### `Code. Create. Learn. Repeat.`
+
+I build things, break things, fix them again  
+and learn something new every time.
+
+<br>
+
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-- 💻 Hobby developer focused on **Gaming/Modding & Software Development**
-- 🧠 Always curious about new tools, ideas, and best practices
-- 🛠️ I enjoy building clean, performant, and maintainable solutions
-- 🌱 Currently exploring my path and leveling up my skills
+```txt
+Name:        EinfachNeo
+Focus:       Gaming, Modding, Bots & Software Development
+Mindset:     Learn by building
+Status:      Exploring my path and leveling up my skills
+```
+
+I'm a hobby developer who enjoys creating projects around **gaming, modding, automation, bots, tools, and software development**.
+
+I like working on things that help me understand how systems work behind the scenes — from small scripts and experiments to more advanced ideas that may grow into bigger projects over time.
+
+---
+
+## ⚡ What I Like Building
+
+```diff
++ Game-related tools
++ Modding experiments
++ Discord bots
++ Automation scripts
++ Small utilities
++ Creative software ideas
+```
+
+I enjoy building clean, structured, and maintainable projects.  
+Performance, readability, and learning better ways to solve problems are things I care about while coding.
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages & Frameworks
+<div align="center">
 
+### Languages & Runtime
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua)
+
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![Discord.js](https://img.shields.io/badge/Discord.js-000?style=for-the-badge&logo=discord)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Current Projects
 
-🔹 **SOON**  
-Something cool is coming. Stay tuned 👀
+```yaml
+featured_projects:
+  status: "coming soon"
+  type:
+    - small tools
+    - experiments
+    - learning projects
+    - bigger ideas in progress
+```
 
-➡️ Check out my repositories below 👇
+I'm currently working on different experiments and ideas.  
+Some are small tools, some are learning projects, and some may become bigger over time.
+
+> Stay tuned — cool stuff is coming. 👀
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EinfachNeo&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachNeo&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EinfachNeo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachNeo&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-- 🌐 Website: [portfolio.einfachneo.workers.dev](https://portfolio.einfachneo.workers.dev/)
-- 📫 Discord: einfach_neo
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.einfachneo.workers.dev/)
+![Discord](https://img.shields.io/badge/Discord-einfach__neo-000?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
 
 ---
 
-⭐ *If you like my work, feel free to leave a star — it means a lot!*
+<div align="center">
 
+```txt
+Thanks for visiting my profile.
+If you like something I made, feel free to leave a star ⭐
+```
+
+</div>
