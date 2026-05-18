@@ -18,12 +18,12 @@ and learn something new every time.
 
 ```txt
 Name:        EinfachNeo
-Focus:       Gaming, Modding, Bots & Software Development
+Focus:       Gaming and Modding.
 Mindset:     Learn by building
 Status:      Exploring my path and leveling up my skills
 ```
 
-I'm a hobby developer who enjoys creating projects around **gaming, modding, automation, bots, tools, and software development**.
+I'm a hobby developer who enjoys creating projects around **gaming and modding**.
 
 I like working on things that help me understand how systems work behind the scenes — from small scripts and experiments to more advanced ideas that may grow into bigger projects over time.
 
@@ -34,10 +34,6 @@ I like working on things that help me understand how systems work behind the sce
 ```diff
 + Game-related tools
 + Modding experiments
-+ Discord bots
-+ Automation scripts
-+ Small utilities
-+ Creative software ideas
 ```
 
 I enjoy building clean, structured, and maintainable projects.  
@@ -60,7 +56,6 @@ Performance, readability, and learning better ways to solve problems are things 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
-![Discord.js](https://img.shields.io/badge/Discord.js-000?style=for-the-badge&logo=discord)
 
 </div>
 
